@@ -1,2 +1,6 @@
 # Project_Work
 PAYROLL SYSTEM
+Justice Gyamfi 
+UEB3250122 
+BSc. INFORMATION TECHNOLOGY "C"
+
